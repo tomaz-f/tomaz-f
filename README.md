@@ -1,4 +1,4 @@
-### Hi There!
+### Hello There!
 
 
 I’m currently learning Python and Django framework!
