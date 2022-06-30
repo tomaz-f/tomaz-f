@@ -3,7 +3,7 @@
 </h1>
 
 
-I'm from Brazil, my goal is to get a job as a developer. I am currently studying internet system at the federal university. I've been studying web development languages for the last few years.
+My goal here is to create a portfolio to get a job as a developer. I'm coursing internet systems at the federal university. I've been studying web development languages like javascript and python for the last few years.
 
 <h4> Programming Languages</h4>
 <div style="display: inline_block"><br>
