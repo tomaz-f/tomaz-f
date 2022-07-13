@@ -2,8 +2,12 @@
       Hello there!  :v:
 </h1>
 
+English:
+My goal here is to create a portfolio as a developer. I'm coursing internet systems at the Federal Institute of Technology. I'm focused on developing applications primarily using python with django and javascript with html and css.
 
-My goal here is to create a portfolio to get a job as a developer. I'm coursing internet systems at the federal university. I've been studying web development languages like javascript and python with django framework.
+<hr>
+Português:
+Meu objetivo no github é criar um portifolio de desenvolvedor. Estou cursando Sistemas para Internet no IFMT. Focado em desenvolver aplicações utilizando primariamente python com django e javascript, html e css.
 
 <h4> Programming Languages</h4>
 <div style="display: inline_block"><br>
