@@ -9,7 +9,7 @@ My goal here is to create a portfolio as a developer. I'm coursing internet syst
 Português:
 Meu objetivo no github é criar um portifolio de desenvolvedor. Estou cursando Sistemas para Internet no IFMT. Focado em desenvolver aplicações utilizando primariamente python com django e javascript, html e css.
 
-<h4> Programming Languages</h4>
+<h4> TECHS:</h4>
 <div style="display: inline_block"><br>
   <img align="center" alt="Tomaz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Tomaz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
