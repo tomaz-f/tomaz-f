@@ -1,12 +1,9 @@
 <h1 align="center"> 
       Hello there!  :v:
 </h1>
-
-English:
 My goal here is to create a portfolio as a developer. I'm coursing internet systems at the Federal Institute of Technology. I'm focused on developing back-end applications with Python and Flask
 
 <hr>
-Português:
 Meu objetivo no github é criar um portifolio de desenvolvedor. Estou cursando Sistemas para Internet no IFMT. Focado em desenvolver aplicações back-end utilizando primariamente python e Flask.
 
 <h4> TECHS:</h4>
