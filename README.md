@@ -1,10 +1,10 @@
 <h1 align="center"> 
       Hello there!  :v:
 </h1>
-My goal here is to create a portfolio as a developer. I'm coursing internet systems at the Federal Institute of Technology. I'm focused on developing back-end applications with Python and Flask
+My goal here is to create a portfolio as a developer. I'm coursing internet systems at the Federal Institute of Technology. I'm focused on developing back-end applications with Python, Flask and FastAPI
 
 <hr>
-Meu objetivo no github é criar um portifolio de desenvolvedor. Estou cursando Sistemas para Internet no IFMT. Focado em desenvolver aplicações back-end utilizando primariamente python e Flask.
+Meu objetivo no github é criar um portifolio de desenvolvedor. Estou cursando Sistemas para Internet no IFMT. Focado em desenvolver aplicações back-end utilizando primariamente Python, Flask e FastAPI.
 
 <h4> TECHS:</h4>
 <div style="display: inline_block"><br>
