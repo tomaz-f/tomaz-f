@@ -38,7 +38,7 @@ I'm a student of Internet Systems and a back-end programming intern specializing
 
 - 💬 Learning about **Python, Vue.js, Postgresql, Aws, Docker and Linux.**
 
-- 📫 How to reach me **ftarch@protonmail.com**
+- 📫 How to reach me **ftarch@pm.me**
 
 - 📖 Open to collaborate in new and interesting projects. 
 
