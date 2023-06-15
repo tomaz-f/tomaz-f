@@ -64,3 +64,6 @@ I'm a student of Internet Systems and a back-end programming intern specializing
       <img width="15%" alt="Buy me a coffee" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-buy-coffee.png"/>
   </a>
 </p>
+
+## Dashboard
+[![tomaz-f's GitHub | Stats](https://stats.quine.sh/tomaz-f/github?theme=dark)](https://quine.sh)
