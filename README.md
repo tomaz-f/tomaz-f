@@ -34,7 +34,7 @@
 
 I'm a student of Internet Systems and a back-end programming intern specializing in solving problems through codes. I am a technology and gaming enthusiast. I also like to fix computers and playing guitar is one of my passions.
 
-- 💬 Learning about **Python, Vue.js, Postgresql, Aws, Docker and Linux.**
+- 💬 Learning about **Python, Postgresql, Aws, Docker and Linux.**
 
 - 📫 How to reach me **ftarch@pm.me**
 
